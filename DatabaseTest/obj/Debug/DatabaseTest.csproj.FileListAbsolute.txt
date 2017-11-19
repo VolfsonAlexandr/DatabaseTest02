@@ -1,0 +1,6 @@
+C:\MyFolder\С#\ISDTestBD\DatabaseTest\DatabaseTest\bin\Debug\DatabaseTest.exe.config
+C:\MyFolder\С#\ISDTestBD\DatabaseTest\DatabaseTest\bin\Debug\DatabaseTest.exe
+C:\MyFolder\С#\ISDTestBD\DatabaseTest\DatabaseTest\bin\Debug\DatabaseTest.pdb
+C:\MyFolder\С#\ISDTestBD\DatabaseTest\DatabaseTest\obj\Debug\DatabaseTest.csprojResolveAssemblyReference.cache
+C:\MyFolder\С#\ISDTestBD\DatabaseTest\DatabaseTest\obj\Debug\DatabaseTest.exe
+C:\MyFolder\С#\ISDTestBD\DatabaseTest\DatabaseTest\obj\Debug\DatabaseTest.pdb
